@@ -69,3 +69,44 @@
 .imageSection {
   margin-right: 100px;
 }
+
+.secondSection {
+  margin-top: 40px;
+}
+
+.headerTwo {
+  display: flex;
+  justify-content: center;
+  font-size: 40px;
+  font-weight: bolder;
+  color: #1f2937;
+}
+
+.picAndInfo {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+  gap: 30px;
+  margin-bottom: 75px;
+  text-align: center;
+}
+
+.thirdSection {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #e0dddd;
+  height: 250px;
+}
+
+.quoteContainer h3 {
+  font-size: 25px;
+  font-style: italic;
+  color: #1f2937;
+}
+
+.quoteContainer h4 {
+  display: flex;
+  justify-content: flex-end;
+}
