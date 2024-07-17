@@ -152,3 +152,12 @@
 button {
   cursor: pointer;
 }
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background-color: #2a3546;
+  height: 80px;
+}
